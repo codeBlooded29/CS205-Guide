@@ -1,0 +1,34 @@
+Chennai-Kolkata 1400KM
+Chennai-Indore 1200KM
+Chennai-Bengaluru 300KM
+Chennai-Nagpur 900KM
+Chennai-Ranchi	1300KM
+Chennai-Guwahati 1900KM
+Chennai-Hyderabad 500KM
+
+Kolkata-Indore 1300KM
+Kolkata-Bengaluru 1600KM
+Kolkata-Nagpur 1000KM
+Kolkata-Ranchi 300KM
+Kolkata-Guwahati 1000KM
+Kolkata-Hyderabad 1200KM
+
+Indore-Bengaluru 1100KM
+Indore-Nagpur 400KM
+Indore-Ranchi 1000KM
+Indore-Guwahati 1600KM
+Indore-Hyderabad 700KM
+
+Bengaluru-Nagpur 900KM
+Bengaluru-Ranchi 1400KM
+Bengaluru-Guwahati 2100KM
+Bengaluru-Hyderabad 500KM
+
+Nagpur-Ranchi 700KM
+Nagpur-Guwahati 1400KM
+Nagpur-Hyderabad 400KM
+
+Ranchi-Guwahati 700KM
+Ranchi-Hyderabad 1000KM
+
+Guwahati-Hyderabad 1700KM 
